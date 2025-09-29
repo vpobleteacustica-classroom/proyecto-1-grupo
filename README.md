@@ -3,7 +3,7 @@
 # acus220_primavera_2025
 Organización de proyectos a desarrollar en el semestre
 
-Integrantes: Diego Corales, Albaro Guarda, Cristobal Mansilla
+Integrantes: Diego Corales, Alvaro Guarda, Cristobal Mansilla
 
 
 
