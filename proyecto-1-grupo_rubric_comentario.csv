@@ -1,0 +1,9 @@
+criterio,peso,nota,comentario
+Claridad del planteamiento del problema,0.15,6.9,"Tema muy bien definido: detección y estimación del flujo vehicular mediante análisis acústico; se entiende el propósito y la motivación."
+Justificación y contexto del experimento,0.10,6.7,"Excelente contextualización; destaca el enfoque no intrusivo y de bajo costo frente a sistemas tradicionales. Cita correctamente la literatura base."
+Metodología y organización del notebook,0.20,6.8,"Estructura coherente; los objetivos específicos están bien jerarquizados. Se sugiere detallar más los pasos de adquisición y preprocesamiento de datos."
+Calidad del código y buenas prácticas,0.15,6.6,"Aún en fase conceptual, pero con proyección sólida. Se recomienda modularizar desde el inicio (procesamiento, features, clasificación)."
+Análisis de resultados y visualizaciones,0.15,6.5,"Etapa inicial sin resultados aún; se sugiere planificar visualizaciones de espectrogramas y métricas de clasificación (confusión, precisión)."
+Conclusiones y coherencia con objetivos,0.15,6.7,"Conclusiones preliminares bien alineadas; destacan la aplicabilidad y proyección del sistema. Faltaría incluir limitaciones o desafíos esperados."
+"Redacción, ortografía y estilo general",0.10,6.9,"Redacción clara, formal y con vocabulario técnico apropiado; excelente presentación general."
+Nota final (ponderada),1.00,6.7,"Proyecto con gran potencial académico y práctico, bien orientado hacia aplicaciones urbanas sostenibles. Se aprecia el enfoque técnico y la claridad expositiva. ¡Excelente comienzo, sigan así!"
