@@ -35,3 +35,6 @@ Para probar el prototipo, sigue estos pasos:
 1. Inicia Jupyter en tu terminal:
    ```bash
    jupyter lab
+2. Abre el notebook: 2_conteo_aplicion.ipynb
+3. Asegúrate de que el modelo (ej: modelo_vehiculos.joblib) esté en la misma carpeta.
+4. Ejecuta las celdas en orden para procesar un audio y ver la clasificación.
