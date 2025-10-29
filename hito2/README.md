@@ -4,7 +4,7 @@
 
 * Se desarrolló un prototipo funcional del código capaz de procesar un audio y detectar la presencia de vehículos.
 * El script implementa la clasificación de los vehículos detectados en tres clases principales:
-* Motos, Autos y Camiones.
+* Grande, medio y pequeño.
 
 * Se realizó la búsqueda, recopilación y selección de un conjunto de datos (archivos de audio) que se utilizarán para el entrenamiento y
  se subio a Zenodo los audios para entrenar el programa.
