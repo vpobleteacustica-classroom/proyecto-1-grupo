@@ -28,6 +28,10 @@ El proyecto utiliza las siguientes librerias de Python:
 * scikit-learn
 * jupyter
 
-Ejecucion del prototipo(Hito 2)
-1. Iniciar jupyter
+### 2. Ejecución del Prototipo (Hito 2) 🚗
 
+Para probar el prototipo, sigue estos pasos:
+
+1. Inicia Jupyter en tu terminal:
+   ```bash
+   jupyter lab
