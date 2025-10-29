@@ -6,8 +6,7 @@
 * El script implementa la clasificación de los vehículos detectados en tres clases principales:
 * Grande, medio y pequeño.
 
-* Se realizó la búsqueda, recopilación y selección de un conjunto de datos (archivos de audio) que se utilizarán para el entrenamiento y
- se subio a Zenodo los audios para entrenar el programa.
+* Se realizó la búsqueda, recopilación y selección de un conjunto de datos (archivos de audio) que se utilizarán para el entrenamiento, los cuales fueron subidos a Zenodo.
 
 ## Qué falta por completar para Hito 3
 
@@ -36,7 +35,7 @@ Para probar el prototipo, sigue estos pasos:
    ```bash
    jupyter lab
 2. Verificar los archivos: Asegúrate de tener los diguientes archivos en la misma carpeta:
-* 01_Entrenamiento_Modelo.ipynb (En la carpeta notebook de esta demo)
+* 01_Entrenamiento_Modelo.ipynb (En la carpeta notebook de esta demo).
 * 02_Conteo_Aplicacion.ipynb (Tambien en la carpeta notebook de esta demo).
 * clasificador_vehiculos.joblib (El modelo entrenado. Si no lo tienes, debes ejecutar primero el notebook 01).
 3. Prepara tu audio:
