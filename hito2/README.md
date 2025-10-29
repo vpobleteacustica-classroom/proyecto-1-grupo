@@ -26,7 +26,8 @@ El proyecto utiliza las siguientes librerias de Python:
 * joblib
 * scikit-learn
 * jupyter
-Debes descargar los audios para entrenar el programa y dejarlos en sus respectivas carpetas.
+
+ Debes descargar los audios para entrenar el programa y dejarlos en sus respectivas carpetas.
 ### 2. Ejecución del Prototipo (Hito 2) 🚗
 
 Para probar el prototipo, sigue estos pasos:
