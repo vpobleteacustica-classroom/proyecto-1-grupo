@@ -35,7 +35,7 @@ Para probar el prototipo, sigue estos pasos:
 1. Inicia Jupyter en tu terminal:
    ```bash
    jupyter lab
-2. Verificar los archivos: Asegúrate de tener los diguientes archivos en la misma carpeta
+2. Verificar los archivos: Asegúrate de tener los diguientes archivos en la misma carpeta:
 * 02_Conteo_Aplicacion.ipynb (El notebook de esta demo).
 * clasificador_vehiculos.joblib (El modelo entrenado. Si no lo tienes, debes ejecutar primero el notebook 01).
 3. Asegúrate de que el modelo (ej: modelo_vehiculos.joblib) esté en la misma carpeta.
