@@ -47,9 +47,13 @@ Para probar el prototipo, sigue estos pasos:
    * Ve al menú Kernel > Restart Kernel and Run All Cells... (o ejecuta las celdas una por una, desde el Bloque 1 hasta el 4).
 5. Revisa el Resultado:
 * EL resultado de la clasificación aparecerá al final, en la salida del Bloque 4. Verás un mensaje como:
-  ```python
-import librosa
-import joblib
+El resultado de la clasificación aparecerá al final, en la salida del **Bloque 4**. Verás un mensaje como:
 
-MODELO_PATH = "clasificador_vehiculos.joblib"
-model = joblib.load(MODELO_PATH)
+    ```
+    ===============================
+          RESULTADO 
+    ===============================
+    El audio 'audio_random.wav' ha sido clasificado como:
+     -> **PEQUENO**
+    ===============================
+    ```
