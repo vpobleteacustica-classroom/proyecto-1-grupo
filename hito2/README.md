@@ -19,3 +19,9 @@ Los siguientes pasos para la entrega final (Hito 3) son:
 
 ## Como ejecutar el codigo
 
+El proyecto utiliza las siguientes librerias de Python:
+*numpy
+*librosa
+*matplotlib
+*soundfile
+*jupyter
