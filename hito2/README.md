@@ -17,3 +17,5 @@ Los siguientes pasos para la entrega final (Hito 3) son:
 * Integrar el modelo final en el script principal.
 * Realizar el análisis de resultados y preparar la presentación final.
 
+## Como ejecutar el codigo
+
