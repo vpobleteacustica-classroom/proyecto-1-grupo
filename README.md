@@ -6,6 +6,7 @@ Organización de proyectos a desarrollar en el semestre
 Integrantes: Diego Corales, Alvaro Guarda, Cristobal Mansilla
 
 
-
+Link con audios usados para el programa:
+https://zenodo.org/records/17469397
 
 
