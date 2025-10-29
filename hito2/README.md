@@ -31,13 +31,25 @@ El proyecto utiliza las siguientes librerias de Python:
 
 Para probar el prototipo, sigue estos pasos:
 
-1. Inicia Jupyter en tu terminal:
-   ```bash
-   jupyter lab
-2. Verificar los archivos: Asegúrate de tener los diguientes archivos en la misma carpeta:
+1. Verificar los archivos: Asegúrate de tener los diguientes archivos en la misma carpeta:
 * 01_Entrenamiento_Modelo.ipynb (En la carpeta notebook de esta demo).
 * 02_Conteo_Aplicacion.ipynb (Tambien en la carpeta notebook de esta demo).
 * clasificador_vehiculos.joblib (El modelo entrenado. Si no lo tienes, debes ejecutar primero el notebook 01).
-3. Prepara tu audio:
+2. Prepara tu audio:
   *  Renombra tu archivo de audio a audio_random.wav y colócalo en la misma carpeta.
-4. Ejecuta las celdas en orden para procesar un audio y ver la clasificación.
+3. Iniciar Jupyter Lab:
+* Abre tu terminal, navega a la carpeta del proyecto y ejecuta:
+  ```bash
+   jupyter lab
+  ```
+4. Ejecuta el Notebook:
+   * En Jupyter Lab, abre el archivo 02_Conteo_Aplicacion.ipynb .
+   * Ve al menú Kernel > Restart Kernel and Run All Cells... (o ejecuta las celdas una por una, desde el Bloque 1 hasta el 4).
+5. Revisa el Resultado:
+* EL resultado de la clasificación aparecerá al final, en la salida del Bloque 4. Verás un mensaje como:
+  ```python
+import librosa
+import joblib
+
+MODELO_PATH = "clasificador_vehiculos.joblib"
+model = joblib.load(MODELO_PATH)
