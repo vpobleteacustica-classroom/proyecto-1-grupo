@@ -7,7 +7,7 @@
 * Motos, Autos y Camiones.
 
 * Se realizó la búsqueda, recopilación y selección de un conjunto de datos (archivos de audio) que se utilizarán para el entrenamiento y
-* se subio a Zenodo los audios para entrenar el programa
+ se subio a Zenodo los audios para entrenar el programa
 
 ## Qué falta por completar para Hito 3
 
