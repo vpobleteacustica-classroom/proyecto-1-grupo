@@ -24,4 +24,5 @@ El proyecto utiliza las siguientes librerias de Python:
 * librosa
 * matplotlib
 * soundfile
+* joblib
 * jupyter
