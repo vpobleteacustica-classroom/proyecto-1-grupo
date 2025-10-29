@@ -25,4 +25,8 @@ El proyecto utiliza las siguientes librerias de Python:
 * matplotlib
 * soundfile
 * joblib
+* scikit-learn
 * jupyter
+
+Ejecucion del prototipo(Hito 2)
+1*
