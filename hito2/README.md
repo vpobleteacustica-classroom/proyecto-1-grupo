@@ -29,5 +29,5 @@ El proyecto utiliza las siguientes librerias de Python:
 * jupyter
 
 Ejecucion del prototipo(Hito 2)
-1.Iniciar jupyter
+1. Iniciar jupyter
 
