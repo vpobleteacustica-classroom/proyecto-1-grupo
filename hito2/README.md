@@ -39,5 +39,7 @@ Para probar el prototipo, sigue estos pasos:
 * 02_Conteo_Aplicacion.ipynb (El notebook de esta demo).
 * clasificador_vehiculos.joblib (El modelo entrenado. Si no lo tienes, debes ejecutar primero el notebook 01).
 3. Prepara tu audio:
-  * Opción A: Renombra tu archivo de audio a audio_random.wav y colócalo en la misma carpeta.
+  *  Renombra tu archivo de audio a audio_random.wav y colócalo en la misma carpeta.
+  *  # ¡¡PON AQUÍ EL NOMBRE DE TU AUDIO DE PRUEBA!!
+AUDIO_PARA_CLASIFICAR = "el_nombre_de_tu_audio.wav"
 4. Ejecuta las celdas en orden para procesar un audio y ver la clasificación.
