@@ -1,6 +1,6 @@
 ## 📍 Estado de la Entrega 3 (Final)
 
-En esta entrega final, el proyecto ha dado un salto técnico significativo: hemos evolucionado de un sistema de clasificación unitaria (detectar qué es *un* sonido) a un sistema de **detección y conteo de eventos continuos** (contar cuántos vehículos hay en un audio largo).
+En esta entrega final, el proyecto ha dado un salto técnico significativo: hemos evolucionado de un sistema de clasificación unitaria (detectar qué es un sonido) a un sistema de detección y conteo de eventos continuos (contar cuántos vehículos hay en un audio largo).
 
 Sin embargo, para una implementación correcta, es necesario considerar las siguientes limitaciones y dependencias del contexto:
 
@@ -15,3 +15,4 @@ Este **no es un sistema de "caja negra" universal**. Para que el conteo sea prec
 * **Densidad Vehicular:** Una alta cantidad de vehículos requiere mayor solapamiento (overlap) para no perder eventos entre ventanas.
 
 *Si los parámetros no se ajustan a la realidad de la vía grabada (ej. usar configuración de autopista en una calle residencial), el conteo tendrá errores.*
+
