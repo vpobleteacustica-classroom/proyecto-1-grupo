@@ -4,7 +4,7 @@ En esta entrega final, el proyecto ha dado un salto técnico significativo: hemo
 
 Sin embargo, para una implementación correcta, es necesario considerar las siguientes limitaciones y dependencias del contexto:
 
-### ⚠️ Limitaciones Conocidas
+### Limitaciones Conocidas
 1.  **Tamaño del Dataset:** El modelo actual presenta márgenes de error en el conteo debido a que fue entrenado con un volumen limitado de audios. Esto afecta la capacidad del modelo para generalizar ante variaciones sutiles de sonido.
 2.  **Enmascaramiento Acústico:** En situaciones de tráfico denso, existe la posibilidad de que vehículos con motores más ruidosos "opaquen" o enmascaren el sonido de vehículos más pequeños o eléctricos, impidiendo su detección.
 3.  **Calidad de Audio:** La precisión decae si la grabación presenta mucho ruido de viento o interferencias no vehiculares que no fueron contempladas en el entrenamiento.
@@ -15,5 +15,6 @@ Este **no es un sistema de "caja negra" universal**. Para que el conteo sea prec
 * **Densidad Vehicular:** Una alta cantidad de vehículos requiere mayor solapamiento (overlap) para no perder eventos entre ventanas.
 
 *Si los parámetros no se ajustan a la realidad de la vía grabada (ej. usar configuración de autopista en una calle residencial), el conteo tendrá errores.*
+
 
 
